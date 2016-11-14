@@ -1,0 +1,11 @@
+Umali HW3
+
+Navigate back to /hw3/
+Navigate to myplugin/build and run make
+Delete myplugin-build if make is not working
+Run cmake
+Navigate to myplugin/build and run make
+Navigate back to /hw3/
+Run as HW3.py
+Goal bias can be change inside HW3.py
+Ignore bidirect value; not implemented

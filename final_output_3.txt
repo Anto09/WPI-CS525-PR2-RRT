@@ -1,0 +1,152 @@
+No path found
+Number of nodes sampled 21573
+
+Found Path in 5 seconds w/ goal bias 0.16
+Number of nodes sampled 1378
+smoothing computation time 7
+original path length 6.99024
+smoothed path length 2.8022
+
+Found Path in 22 seconds w/ goal bias 0.16
+Number of nodes sampled 5941
+smoothing computation time 6
+original path length 7.54316
+smoothed path length 2.93517
+
+No path found
+Number of nodes sampled 21562
+
+Found Path in 3 seconds w/ goal bias 0.16
+Number of nodes sampled 1038
+smoothing computation time 6
+original path length 4.64801
+smoothed path length 1.94908
+
+No path found
+Number of nodes sampled 21405
+
+Found Path in 68 seconds w/ goal bias 0.16
+Number of nodes sampled 12193
+smoothing computation time 7
+original path length 5.80273
+smoothed path length 3.71914
+
+Found Path in 43 seconds w/ goal bias 0.16
+Number of nodes sampled 9299
+smoothing computation time 5
+original path length 7.27787
+smoothed path length 4.39535
+
+Found Path in 5 seconds w/ goal bias 0.16
+Number of nodes sampled 1838
+smoothing computation time 7
+original path length 6.29766
+smoothed path length 3.74905
+
+Found Path in 8 seconds w/ goal bias 0.16
+Number of nodes sampled 2691
+smoothing computation time 6
+original path length 5.50512
+smoothed path length 3.12182
+
+Found Path in 67 seconds w/ goal bias 0.16
+Number of nodes sampled 12344
+smoothing computation time 7
+original path length 5.38663
+smoothed path length 2.46329
+
+No path found
+Number of nodes sampled 21249
+
+No path found
+Number of nodes sampled 21237
+
+Found Path in 85 seconds w/ goal bias 0.16
+Number of nodes sampled 14105
+smoothing computation time 6
+original path length 7.90455
+smoothed path length 3.00631
+
+Found Path in 39 seconds w/ goal bias 0.16
+Number of nodes sampled 8676
+smoothing computation time 7
+original path length 5.18307
+smoothed path length 3.25661
+
+Found Path in 54 seconds w/ goal bias 0.16
+Number of nodes sampled 10435
+smoothing computation time 7
+original path length 6.08118
+smoothed path length 2.7267
+
+Found Path in 6 seconds w/ goal bias 0.16
+Number of nodes sampled 1478
+smoothing computation time 6
+original path length 6.76414
+smoothed path length 3.97911
+
+No path found
+Number of nodes sampled 21579
+
+Found Path in 13 seconds w/ goal bias 0.16
+Number of nodes sampled 4098
+smoothing computation time 6
+original path length 7.03113
+smoothed path length 3.06531
+
+No path found
+Number of nodes sampled 21497
+
+Found Path in 18 seconds w/ goal bias 0.16
+Number of nodes sampled 5216
+smoothing computation time 6
+original path length 5.76579
+smoothed path length 3.45568
+
+Found Path in 18 seconds w/ goal bias 0.16
+Number of nodes sampled 5224
+smoothing computation time 7
+original path length 3.5562
+smoothed path length 2.11355
+
+Found Path in 33 seconds w/ goal bias 0.16
+Number of nodes sampled 7672
+smoothing computation time 4
+original path length 5.14153
+smoothed path length 3.12236
+
+Found Path in 5 seconds w/ goal bias 0.16
+Number of nodes sampled 1871
+smoothing computation time 6
+original path length 6.49288
+smoothed path length 3.43701
+
+No path found
+Number of nodes sampled 21562
+
+Found Path in 19 seconds w/ goal bias 0.16
+Number of nodes sampled 5482
+smoothing computation time 4
+original path length 8.63346
+smoothed path length 3.53655
+
+Found Path in 6 seconds w/ goal bias 0.16
+Number of nodes sampled 1823
+smoothing computation time 4
+original path length 4.97933
+smoothed path length 2.48102
+
+Found Path in 11 seconds w/ goal bias 0.16
+Number of nodes sampled 3576
+smoothing computation time 5
+original path length 6.39365
+smoothed path length 3.02794
+
+Found Path in 7 seconds w/ goal bias 0.16
+Number of nodes sampled 2362
+smoothing computation time 8
+original path length 7.37868
+smoothed path length 4.04847
+
+No path found
+Number of nodes sampled 21799

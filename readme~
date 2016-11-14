@@ -1,0 +1,6 @@
+Umali HW3
+
+Navigate to build folder and run cmake + make
+Run as HW3.py
+Goal bias can be change inside HW3.py
+Ignore bidirect value; not implemented
